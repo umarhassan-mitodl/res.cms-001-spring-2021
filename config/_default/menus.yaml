@@ -1,0 +1,18 @@
+leftnav:
+- identifier: c7e93a18-e1d5-9f56-75b3-073340e84472
+  name: Sample Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 745af33f-fb92-87ea-6ec9-91738469d9e0
+  name: Sample Readings
+  pageRef: /pages/syllabus/sample-readings
+  parent: c7e93a18-e1d5-9f56-75b3-073340e84472
+  weight: 20
+- identifier: 69aad9e7-fb4b-a2bf-d1ba-e62d4e389183
+  name: Bibliography
+  pageRef: /pages/additional-resources
+  weight: 30
+- identifier: abe944df-ec1b-4cef-86d8-23045403c49c
+  name: Learning Module and Course Materials
+  pageRef: /external-resources/learning-module-and-course-materials_abe944df-ec1b-4cef-86d8-23045403c49c
+  weight: 1000
