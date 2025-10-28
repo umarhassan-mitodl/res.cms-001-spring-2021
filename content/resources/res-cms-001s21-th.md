@@ -4,8 +4,6 @@ description: ''
 file: /courses/res-cms-001-media-literacy-in-the-age-of-deepfakes-spring-2021/0137e087a13df0587030e929a834fe8d_res-cms-001s21-th.png
 file_size: 5760
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: "Misinformation constitutes an urgent threat to democratic societies around\
     \ the world.\_(Graphic by Dizzy Giant.)"

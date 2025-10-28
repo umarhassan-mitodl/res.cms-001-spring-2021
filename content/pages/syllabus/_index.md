@@ -2,15 +2,13 @@
 content_type: page
 description: 'Syllabus, including grading criteria, for Media Literacy in the Age
   of Misinformation. '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
 title: Sample Syllabus
 uid: c7e93a18-e1d5-9f56-75b3-073340e84472
 ---
 
-The following is an expanded course description that builds on the learning module, Media Literacy in the Age of Deepfakes. For the full syllabus, please go to the main [learning module website](https://deepfakes.virtuality.mit.edu/).
+The following is an expanded course description that builds on the learning module, Media Literacy in the Age of Deepfakes. For the full syllabus, please go to the main {{% resource_link "abe944df-ec1b-4cef-86d8-23045403c49c" "learning module website" %}}.
 
 Resource Description
 --------------------
